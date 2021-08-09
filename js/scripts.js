@@ -1,4 +1,4 @@
-jQuery(document).ready(function( {
+jQuery(document).ready(function() {
   jQuery("h1").click(function() {
     alert("This is a heading.");
     alert("I told you, THIS IS A HEADING!");
@@ -11,3 +11,4 @@ jQuery(document).ready(function( {
   jQuery("img").click(function() {
     alert("This is an image.");
   });
+});
